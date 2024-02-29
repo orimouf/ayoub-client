@@ -9,7 +9,7 @@ function Home() {
                     <div className="col-lg-4 ab-content">
                         <div className="ab-info-con">
                             <h4>Fast & Free Delivery</h4>
-                            <p>Lorem ipsum dolor sit,Nulla pellentesque dolor ipsum laoreet eleifend integer,Pellentesque maximus libero.</p>
+                            <p>Lorem ipsum dolor sit , Nulla pellentesque dolor ipsum laoreet eleifend integer,Pellentesque maximus libero.</p>
                         </div>
                     </div>
                     <div className="col-lg-4 ab-content">
